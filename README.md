@@ -1,59 +1,58 @@
 <!--
 ════════════════════════════════════════════════════════════════════════
-  GalacticVraj — GitHub Profile README
-  Drop this file at:  github.com/GalacticVraj/GalacticVraj  →  README.md
-  Theme palette (kept consistent across every card):
-    violet  #a855f7   cyan #22d3ee   bg #0d1117   text #c9d1d9   border #30363d
-  Search "TODO" for the 3 optional things to finish (see bottom of file).
+  GalacticVraj — GitHub Profile README  ·  synthwave / galactic edition
+  Drop this at:  github.com/GalacticVraj/GalacticVraj  →  README.md
+  Palette (threaded through every card):
+    hot-pink #f72585 · magenta #b5179e · violet #7209b7 · aqua #4cc9f0
+    canvas #1a0b2e · text #e0dfff
+  Search "TODO" at the bottom for 3 optional finishing touches.
 ════════════════════════════════════════════════════════════════════════
 -->
 
-<!-- ░░░░░░░░░░░░░░░  HEADER BANNER  ░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░  HEADER  ░░░░░░░░░░░░░ -->
 <a href="https://github.com/GalacticVraj">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:22d3ee&height=200&section=header&text=Vraj%20Harish%20Talati&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=chaotic%20%3A)%20%20%E2%80%94%20%20tinkerer%2C%20builder%2C%20researcher&descSize=18&descAlignY=60&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,45:b5179e,100:4cc9f0&height=210&section=header&text=Vraj%20Harish%20Talati&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=%E2%9C%A6%20%20chaotic%20%3A)%20%20%C2%B7%20%20tinkerer%20%C2%B7%20builder%20%C2%B7%20researcher%20%20%E2%9C%A6&descSize=18&descAlignY=58&animation=fadeIn" alt="header"/>
 </a>
 
-<!-- ░░░░░░░░░░░░░░░  TYPING SUBTITLE  ░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░  TYPING SUBTITLE + BADGES  ░░░░░░░░░░░░░ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=720&lines=CS+%C3%97+MBA+dual-degree+%40+Nirma+University;Product+Strategy+%40+Bluehost+%E2%80%94+the+company+of+one;Founder+%40+Tweakbits+%E2%80%94+AI+adoption+agency;Computer+Vision+%2B+Federated+Learning+researcher;Technical+Head+%40+IEEE+Student+Branch+NU;I+break+things...+then+build+them+better)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=750&color=F72585&center=true&vCenter=true&width=760&lines=CS+%C3%97+MBA+dual-degree+%40+Nirma+University;Computer+Vision+%2B+Federated+Learning+researcher;Technical+Head+%40+IEEE+Student+Branch+NU;Full-stack+builder+%2B+serial+hackathon+competitor;Music+director+%F0%9F%8E%BC+%2B+motion+design+%F0%9F%8E%AC;I+break+things...+then+build+them+better)](https://git.io/typing-svg)
 
-<!-- ░░░ SOCIAL / STATUS BADGES ░░░ -->
 <a href="https://www.linkedin.com/in/VrajTalati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.youtube.com/@VrajTalati"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://www.instagram.com/talati_vraj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:vrajt.college@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=GalacticVraj&label=Profile%20Views&color=a855f7&style=flat-square" alt="views"/>
-<a href="https://github.com/GalacticVraj?tab=followers"><img src="https://img.shields.io/github/followers/GalacticVraj?label=Follow&style=flat-square&color=22d3ee&labelColor=0d1117&logo=github" alt="followers"/></a>
-<img src="https://img.shields.io/badge/Based%20in-India%20%F0%9F%87%AE%F0%9F%87%B3-22d3ee?style=flat-square&labelColor=0d1117" alt="india"/>
+<img src="https://komarev.com/ghpvc/?username=GalacticVraj&label=Profile%20Views&color=f72585&style=flat-square" alt="views"/>
+<a href="https://github.com/GalacticVraj?tab=followers"><img src="https://img.shields.io/github/followers/GalacticVraj?label=Follow&style=flat-square&color=4cc9f0&labelColor=1a0b2e&logo=github" alt="followers"/></a>
+<img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-4cc9f0?style=flat-square&labelColor=1a0b2e" alt="india"/>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+## ✦ &nbsp;whoami
 
 ```typescript
 const vraj: Human = {
-  role:       ["Product Strategist @ Bluehost", "Founder @ Tweakbits", "Researcher"],
-  education:  "B.Tech CS × MBA (dual-degree) @ Nirma University — Institute of Technology",
-  leadership: "Technical Head, IEEE Student Branch NU · Architecture Guild lead @ Bluehost",
-  focus:      ["Computer Vision", "Federated Learning", "Applied ML", "Product Strategy"],
+  education:  "B.Tech Computer Science × MBA (dual-degree) @ Nirma University — IT",
+  leadership: "Technical Head, IEEE Student Branch NU",
+  focus:      ["Computer Vision", "Federated Learning", "Applied ML", "Product"],
   builds:     ["full-stack apps", "vertical ERPs", "research prototypes", "hackathon wins"],
-  alsoDoes:   ["music direction 🎼", "video & motion 🎬", "teaching"],
-  currentBet: "AI that actually ships for the company-of-one — small businesses, real leverage",
+  alsoDoes:   ["music direction 🎼", "video & motion design 🎬", "teaching"],
   philosophy: "learn by consequence, not by lecture",
+  status:     "always shipping something 🚀",
 };
 ```
 
-> I live at the intersection of **research, product, and craft** — training vision transformers one week,
-> shipping a QR-based ERP for marble yards the next, and scoring a stage play in between. If it can be
-> **built, benchmarked, or broken open to understand** — I'm in.
+> I live where **research, product, and craft** overlap — training vision transformers one week,
+> shipping a QR-based ERP for marble yards the next, and scoring a stage play in between.
+> If it can be **built, benchmarked, or broken open to understand** — I'm in.
 
 ---
 
-## 🧠 &nbsp;How My Work Connects
+## ✦ &nbsp;how my work connects
 
 <div align="center">
 
@@ -68,27 +67,27 @@ mindmap
         Healthcare benchmarking
         Road-safety & EMS
       Publication Integrity
-    Product
-      Bluehost SMB strategy
-      "Company of one" OS
-      Tweakbits — AI adoption
     Building
       Vertical ERP · ShilaTeq
       Hackathon prototypes
       Full-stack web
+    Product
+      SMB & 0 to 1 thinking
+      Applied AI adoption
+      Roadmap strategy
     Creative
       Music direction
-      Video & motion design
+      Video & motion
       IEEE experiences
 ```
 
-<sub><i>GitHub renders this Mermaid mind-map natively — it's a live diagram, not an image.</i></sub>
+<sub><i>↑ live Mermaid mind-map — GitHub renders this natively, it's a real diagram, not an image.</i></sub>
 
 </div>
 
 ---
 
-## 🚀 &nbsp;Featured Work
+## ✦ &nbsp;featured work
 
 <table>
 <tr>
@@ -129,7 +128,7 @@ A PyTorch training pipeline for a **foveated ViT** on ImageNet-1k — attention 
 <td width="50%" valign="top">
 
 ### 🩺 Federated Learning Research
-Privacy-preserving ML across two fronts: a **healthcare benchmark on FLamby**, and a **road-safety / EMS framework** on India's NCRB & MoRTH data — training without pooling sensitive data.
+Privacy-preserving ML on two fronts: a **healthcare benchmark on FLamby**, and a **road-safety / EMS framework** on India's NCRB & MoRTH data — training without ever pooling sensitive data.
 <br/><br/>
 `Federated Learning` `Healthcare` `Privacy`
 
@@ -141,21 +140,21 @@ Privacy-preserving ML across two fronts: a **healthcare benchmark on FLamby**, a
 
 <div align="center">
 <br/>
-<sub><b>More in the arsenal:</b></sub><br/>
-<img src="https://img.shields.io/badge/MethaneGuard%20AI-CV%20leak%20detection-a855f7?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Truth--Anchor-vernacular%20fact--checking-22d3ee?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Tweakbits-AI%20adoption%20agency-a855f7?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Predictive%20Maintenance-Azure%20IoT-22d3ee?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Publication%20Integrity-multimodal%20SPS-a855f7?style=flat-square&labelColor=0d1117"/>
+<sub><b>more in the arsenal</b></sub><br/>
+<img src="https://img.shields.io/badge/MethaneGuard%20AI-CV%20leak%20detection-f72585?style=flat-square&labelColor=1a0b2e"/>
+<img src="https://img.shields.io/badge/Truth--Anchor-vernacular%20fact--checking-4cc9f0?style=flat-square&labelColor=1a0b2e"/>
+<img src="https://img.shields.io/badge/Predictive%20Maintenance-Azure%20IoT-b5179e?style=flat-square&labelColor=1a0b2e"/>
+<img src="https://img.shields.io/badge/Publication%20Integrity-multimodal%20SPS-4cc9f0?style=flat-square&labelColor=1a0b2e"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-CNN%20%C2%B7%20MNIST-f72585?style=flat-square&labelColor=1a0b2e"/>
 </div>
 
 ---
 
-## 🛠️ &nbsp;Tech Stack
+## ✦ &nbsp;tech stack
 
 <div align="center">
 
-**Languages**
+**languages**
 <br/>
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -165,7 +164,7 @@ Privacy-preserving ML across two fronts: a **healthcare benchmark on FLamby**, a
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-**Machine Learning & Data**
+**machine learning & data**
 <br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -176,14 +175,14 @@ Privacy-preserving ML across two fronts: a **healthcare benchmark on FLamby**, a
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-**Web & Build**
+**web & build**
 <br/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Tools & Craft**
+**tools & craft**
 <br/>
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
@@ -195,40 +194,39 @@ Privacy-preserving ML across two fronts: a **healthcare benchmark on FLamby**, a
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
+## ✦ &nbsp;github analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GalacticVraj&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.demolab.com?user=GalacticVraj&hide_border=true&background=0d1117&stroke=30363d&ring=a855f7&fire=22d3ee&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=636e7a&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GalacticVraj&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=f72585&icon_color=4cc9f0&text_color=e0dfff&bg_color=1a0b2e" alt="stats"/>
+<img height="170" src="https://github-readme-streak-stats.demolab.com?user=GalacticVraj&hide_border=true&background=1a0b2e&stroke=3a2a5e&ring=f72585&fire=4cc9f0&currStreakLabel=f72585&sideLabels=b794f6&dates=8b7ec8&currStreakNum=e0dfff&sideNums=e0dfff" alt="streak"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalacticVraj&layout=compact&hide_border=true&langs_count=10&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="top langs"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalacticVraj&layout=compact&hide_border=true&langs_count=10&title_color=f72585&text_color=e0dfff&bg_color=1a0b2e" alt="top langs"/>
 
-<!-- Contribution activity graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GalacticVraj&bg_color=0d1117&color=c9d1d9&line=a855f7&point=22d3ee&area=true&area_color=a855f7&hide_border=true" alt="activity graph"/>
+<!-- ★ the contribution activity graph — the standout ★ -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GalacticVraj&bg_color=1a0b2e&color=f72585&line=f72585&point=4cc9f0&area=true&area_color=7209b7&title_color=4cc9f0&hide_border=true" alt="activity graph"/>
 
-<!-- Trophies -->
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=GalacticVraj&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=GalacticVraj&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
 
 </div>
 
 ---
 
-## 📌 &nbsp;Pinned Repositories
+## ✦ &nbsp;pinned repositories
 
 <div align="center">
 
 <a href="https://github.com/GalacticVraj/IEEEMETAVERSE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalacticVraj&repo=IEEEMETAVERSE&hide_border=true&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="GridGuard"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalacticVraj&repo=IEEEMETAVERSE&hide_border=true&title_color=f72585&icon_color=4cc9f0&text_color=e0dfff&bg_color=1a0b2e" alt="GridGuard"/>
 </a>
 <a href="https://github.com/GalacticVraj/Deep-Learning-CNN-MNIST">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalacticVraj&repo=Deep-Learning-CNN-MNIST&hide_border=true&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="CNN MNIST"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalacticVraj&repo=Deep-Learning-CNN-MNIST&hide_border=true&title_color=f72585&icon_color=4cc9f0&text_color=e0dfff&bg_color=1a0b2e" alt="CNN MNIST"/>
 </a>
 <a href="https://github.com/GalacticVraj/Breach_Pdeu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalacticVraj&repo=Breach_Pdeu&hide_border=true&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Breach"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalacticVraj&repo=Breach_Pdeu&hide_border=true&title_color=f72585&icon_color=4cc9f0&text_color=e0dfff&bg_color=1a0b2e" alt="Breach"/>
 </a>
 <a href="https://github.com/GalacticVraj/3D-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalacticVraj&repo=3D-Portfolio&hide_border=true&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="3D Portfolio"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalacticVraj&repo=3D-Portfolio&hide_border=true&title_color=f72585&icon_color=4cc9f0&text_color=e0dfff&bg_color=1a0b2e" alt="3D Portfolio"/>
 </a>
 
 </div>
@@ -236,21 +234,19 @@ Privacy-preserving ML across two fronts: a **healthcare benchmark on FLamby**, a
 ---
 
 <details>
-<summary><b>🏆 &nbsp;Beyond the Code — click to expand</b></summary>
+<summary><b>✦ &nbsp;beyond the code — click to expand</b></summary>
 <br/>
 
 - 🎓 **Dual-degree** B.Tech Computer Science + MBA at Nirma University's Institute of Technology
-- 🧑‍💼 **Product Strategy @ Bluehost** — shaping the SMB roadmap toward an *"operating system for the company of one"*
-- 🚀 **Founder, Tweakbits Technologies Pvt. Ltd.** — an AI-adoption agency helping teams put AI to work
 - ⚙️ **Technical Head, IEEE Student Branch NU** — building cinematic web experiences, orientations & challenges
-- 🏗️ **Architecture Guild lead @ Bluehost** — driving engineering coherence across teams
-- 🎼 **Music director** for the Hindi stage play *सत्ता / Satta* — and video / motion design on the side
+- 🏭 **Builder of ShilaTeq / StoneX** — a vertical ERP taking marble & granite yards from paper to product
+- 🎼 **Music director** for the Hindi stage play *सत्ता / Satta* — with video & motion design on the side
 - 🥇 **Serial hackathon builder** — Bharatiya Antariksh, HackOut, SEMICON India, SIH, UNESCO Youth & more
 
 </details>
 
 <details>
-<summary><b>📚 &nbsp;Research & Selected Work — click to expand</b></summary>
+<summary><b>✦ &nbsp;research & selected work — click to expand</b></summary>
 <br/>
 
 | Area | Work |
@@ -265,16 +261,16 @@ Privacy-preserving ML across two fronts: a **healthcare benchmark on FLamby**, a
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░  QUOTE + FOOTER  ░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░  QUOTE + FOOTER  ░░░░░░░░░░░░░ -->
 <div align="center">
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
-> _"Stay chaotic. Ship anyway."_
+> _"stay chaotic. ship anyway."_
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:a855f7&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4cc9f0,55:b5179e,100:f72585&height=130&section=footer" alt="footer"/>
 
 </div>
 
@@ -283,15 +279,15 @@ Privacy-preserving ML across two fronts: a **healthcare benchmark on FLamby**, a
   TODO — 3 optional finishing touches (each ~2 min):
 
   1. SNAKE ANIMATION (eats your contribution graph):
-     Create .github/workflows/snake.yml in this SAME repo with the
-     Platane/snk action, then add this image where you want it:
+     Add .github/workflows/snake.yml (Platane/snk action) in THIS repo,
+     then paste this where you want it:
        ![snake](https://raw.githubusercontent.com/GalacticVraj/GalacticVraj/output/github-contribution-grid-snake-dark.svg)
 
-  2. SPOTIFY "now playing" or WAKATIME coding stats — say the word and
-     I'll wire up the exact badge/action.
+  2. SPOTIFY "now playing" or WAKATIME coding stats — say the word,
+     I'll wire the exact badge/action.
 
-  3. Replace the placeholder repo links (marked → Product / → Research /
-     → Work above) with the real public repo URLs once those repos are
-     public. The 4 pinned cards already pull LIVE data automatically.
+  3. Swap the placeholder links (→ Product / → Research / → Work) for real
+     repo URLs once those repos are public. The 4 pinned cards already
+     pull LIVE data automatically.
 ════════════════════════════════════════════════════════════════════════
 -->
