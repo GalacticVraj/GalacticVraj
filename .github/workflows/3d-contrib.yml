@@ -1,0 +1,36 @@
+# ────────────────────────────────────────────────────────────────
+#  Builds an animated 3D isometric map of your entire contribution
+#  history and pushes the SVGs to the "3d" branch. The README points
+#  at:  3d/profile-night-green.svg
+#  Runs daily + on manual trigger. First run: Actions tab → Run.
+# ────────────────────────────────────────────────────────────────
+name: generate 3d contrib
+
+on:
+  schedule:
+    - cron: "30 0 * * *"    # once a day
+  workflow_dispatch:         # lets you run it manually
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - name: build 3d contribution SVGs
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: push to 3d branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: 3d
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
